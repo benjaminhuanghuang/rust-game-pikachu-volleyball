@@ -1,4 +1,4 @@
 (
     title : "Pikachu Volleyball",
-    dimensions: Some((1280,1280)),
+    dimensions: Some((500,500)),
 )
